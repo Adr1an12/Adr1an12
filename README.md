@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Adriano!
 
-<!--
-**Adr1an12/Adr1an12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFTM)  
+💻 Técnico em Informática  
+🔧 Experiência com manutenção e suporte técnico desde 2020  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia, com experiência prática em suporte técnico e manutenção de computadores. Atualmente estou evoluindo na área de desenvolvimento de sistemas.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+- Manutenção de computadores (hardware e software)
+- Windows e noções de Linux
+- Redes básicas
+- Lógica de programação
+
+---
+
+## 📂 Projetos
+(Em construção...)
+
+---
+
+## 📫 Contato
+📧 adrianocarlos1202@gmail.com
